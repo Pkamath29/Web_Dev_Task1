@@ -1,0 +1,25 @@
+h1{
+	font-family:Agency FB;
+	font-size: 50px;
+	color:white;
+	text-transform: capitalize;
+}
+ul{
+	color:#C70039;
+}
+a{
+	color:#C70039;
+}
+.class1{
+	border-style: solid;
+	border-color: #FC4A1A;
+	padding: 30px;
+	border-radius: 30px;
+	margin: 20px;
+}
+p{
+	color: white;
+}
+ol{
+	color: white;
+}
